@@ -14,7 +14,7 @@ setup(
     description="Python client for the Prometheus monitoring system.",
     long_description=long_description,
     long_description_content_type='text/markdown',
-    license="Apache Software License 2.0",
+    license="Apache-2.0",
     keywords="prometheus monitoring instrumentation client",
     url="https://github.com/prometheus/client_python",
     packages=[
